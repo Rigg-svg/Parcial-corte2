@@ -5,8 +5,9 @@
   "main": "Ejercicio1.js",
   "scripts": {
     "ej1": "node Ejercicio1.js",
-
-    "eje3": "node Ejercicio3.js"
+    "ej2":"node Parcial-corte2/Ejercicio2.js",
+    "eje3": "node Ejercicio3.js",
+    "ej4":"node Parcial-corte2/Ejercicio4.js"
   },
   "author": "",
   "license": "ISC"
