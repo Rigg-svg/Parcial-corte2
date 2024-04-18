@@ -6,7 +6,9 @@
   "scripts": {
     "ej1": "node Ejercicio1.js",
 
-    "eje3": "node Ejercicio3.js"
+    "eje3": "node Ejercicio3.js",
+
+    "eje5": "node Ejercicio5.js"
   },
   "author": "",
   "license": "ISC"
