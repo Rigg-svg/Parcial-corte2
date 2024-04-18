@@ -5,10 +5,10 @@
   "main": "Ejercicio1.js",
   "scripts": {
     "ej1": "node Ejercicio1.js",
-
-    "eje3": "node Ejercicio3.js",
-
-    "eje5": "node Ejercicio5.js"
+    "ej2": "node Ejercicio2.js",
+    "ej3": "node Ejercicio3.js",
+    "ej4": "node Ejercicio4.js",
+    "ej5": "node Ejercicio5.js"
   },
   "author": "",
   "license": "ISC"
