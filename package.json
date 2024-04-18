@@ -4,7 +4,9 @@
   "description": "",
   "main": "Ejercicio1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ej1": "node Ejercicio1.js",
+
+    "eje3": "node Ejercicio3.js"
   },
   "author": "",
   "license": "ISC"
